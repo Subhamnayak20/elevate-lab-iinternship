@@ -1,3 +1,6 @@
+*** i have directly given the dataset zip file , it consist of - train, test, validation, 
+no need to run the split folder code again
+***
 Objective: Classify plant diseases using image recognition.
     Tools: Python, CNN (Keras), TensorFlow, OpenCV
  Mini-Guide:
