@@ -7,4 +7,4 @@ Objective: Classify plant diseases using image recognition.
    Evaluate model accuracy
 Create GUI to upload leaf image
    Predict & show results
-   Deploy model using Streamlit
+   
